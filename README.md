@@ -1,6 +1,6 @@
 # 🗣️ Natural Language Processing (NLP)
 
-Welcome to my **NLP Learnings** repository!  
+Welcome to my **NLP** repository!  
 This is a hands-on journey into Natural Language Processing — covering everything from text preprocessing to building real-world NLP applications. Whether you're preparing for interviews, working on projects, or diving deeper into machine learning for text, this repo is for you.
 
 ---
