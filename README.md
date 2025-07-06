@@ -1,7 +1,7 @@
 # 🗣️ Natural Language Processing (NLP)
 
 Welcome to my **NLP** repository!  
-This is a hands-on journey into Natural Language Processing — covering everything from text preprocessing to building real-world NLP applications. Whether you're preparing for interviews, working on projects, or diving deeper into machine learning for text, this repo is for you.
+This is a hands-on journey into Natural Language Processing, covering everything from text preprocessing to building real-world NLP applications. Whether you're preparing for interviews, working on projects, or diving deeper into machine learning for text, this repo is for you.
 
 ---
 
@@ -39,13 +39,6 @@ This is a hands-on journey into Natural Language Processing — covering everyth
   - `NLTK`, `spaCy`, `Scikit-learn`, `Pandas`, `Seaborn`, `Matplotlib`, `Gensim`
 
 ---
-
-### 🎯 Real-World Use Cases
-
-- 🔎 Fake News Detection – Classify news articles using TF-IDF + Logistic Regression
-- 💬 Spam Classification – Email/SMS spam detection with Naive Bayes
-
-##
 
 ### 🙌 Ideal For
 
